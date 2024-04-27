@@ -1,0 +1,7 @@
+1) Intialization of array in C
+data_type array_name[array_size];
+eg:int a[5];
+int a[5] = {10, 20, 30, 40, 50};
+2) data structure used to implement queues?
+array,linked list,doubly linked list
+3)
