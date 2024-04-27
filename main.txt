@@ -2,6 +2,15 @@
 data_type array_name[array_size];
 eg:int a[5];
 int a[5] = {10, 20, 30, 40, 50};
+
 2) data structure used to implement queues?
 array,linked list,doubly linked list
-3)
+
+3)type of graph that can have cycles
+directed graph , undirected graphs
+
+4)Operation that removes an element from the start of a queue
+dequeue or pop
+
+5)data stucture that allows fast access of elements
+hash table
